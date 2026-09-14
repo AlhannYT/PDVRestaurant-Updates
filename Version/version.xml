@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <item>
-    <version>1.0.20</version>
-    <url>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/download/v1.0.20/PDVRestaurant.Setup_v1.0.20.exe</url>
-    <changelog>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/tag/v1.0.20</changelog>
+    <version>1.0.21</version>
+    <url>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/download/v1.0.21/PDVRestaurant.Setup_v1.0.21.exe</url>
+    <changelog>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/tag/v1.0.21</changelog>
     <mandatory>true</mandatory>
 </item>

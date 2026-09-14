@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <item>
     <!-- VersiÃ³n del APK de la app mÃ³vil -->
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <!-- VersiÃ³n compatible del sistema de escritorio PDVRestaurant -->
-    <desktopVersion>1.0.20</desktopVersion>
+    <desktopVersion>1.0.21</desktopVersion>
     <!-- Enlace directo de descarga del APK en GitHub Releases -->
-    <url>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/download/v1.0.20/DeliveryPDV-v1.0.3.apk</url>
+    <url>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/download/v1.0.21/DeliveryPDV-v1.0.4.apk</url>
     <!-- Enlace a la pÃ¡gina del release en GitHub -->
-    <changelog>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/tag/v1.0.20</changelog>
+    <changelog>https://github.com/AlhannYT/PDVRestaurant-Updates/releases/tag/v1.0.21</changelog>
     <!-- DescripciÃ³n o resumen de cambios visibles para los repartidores -->
     <changelogText>Lanzamiento inicial de Delivery PDV:
 - SincronizaciÃ³n en tiempo real con sistema de caja

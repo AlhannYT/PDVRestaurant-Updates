@@ -4,7 +4,6 @@
 [![.NET 8.0](https://img.shields.io/badge/.NET-8.0--windows-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server/)
 [![Actualizaciones](https://img.shields.io/badge/Distribución-GitHub%20Releases-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlhannYT/PDVRestaurant-Updates/releases)
-[![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.21-brightgreen?style=for-the-badge)](https://github.com/AlhannYT/PDVRestaurant-Updates/releases)
 
 Sistema integral y profesional para la administración de restaurantes y punto de venta (POS) de alto rendimiento. Desarrollado con tecnología moderna en **C# (.NET 8)** y **Windows Forms**, diseñado para cubrir todo el flujo operativo: punto de venta, cocina y comandas, gestión de mesas, reservaciones, facturación fiscal (NCF), control de delivery en tiempo real con Google Maps, servidor web local embebido y aplicación para repartidores.
 
